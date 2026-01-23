@@ -80,5 +80,6 @@
 
 ###
 
+![Visitor Count](https://profile-counter.glitch.me/{Jaden-Naidoo}/count.svg)
 
 ###
