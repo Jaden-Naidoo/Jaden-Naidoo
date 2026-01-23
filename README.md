@@ -1,12 +1,12 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Jaden Naidoo</h1>
-<p align="center"><i>BSc IT (Data Science) Student · Aspiring Data Scientist / ML Engineer</i></p>
+# Jaden Naidoo  
+*BSc IT (Data Science) Student · Aspiring Data Scientist / ML Engineer*
 
-<p align="center">☕ 📊 📚</p>
+☕ 📊 📚  
 
 ---
 
@@ -22,32 +22,24 @@ Fun fact: I’m obsessed with **music** and have even appeared on **national tel
 ## 🛠 Tech Stack
 
 **Languages:**  
-<center>
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
-[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-</center>
+[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 **Libraries:**  
-<center>
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
-</center>
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 **Databases:**  
-<center>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)  
-</center>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 
 ---
 
-## 🔎 Connect With Me on
-<center>
+## 🔎 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-naidoo-ds/)
-</center>
 
 ---
 
@@ -61,9 +53,7 @@ Fun fact: I’m obsessed with **music** and have even appeared on **national tel
 ---
 
 ## 📂 Featured Work
-<center>
 - 📘 Coursework & personal projects  
-</center>
 
 ---
 
