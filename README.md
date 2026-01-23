@@ -1,67 +1,93 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" alt="banner" width="100%" />
-</p>
+<div align="center">
+  <img height="196" src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif"  />
+</div>
 
-# Jaden Naidoo  
-*BSc IT (Data Science) Student · Aspiring Data Scientist / ML Engineer*
+###
 
-☕ 📊 📚  
+<h1 align="left">Jaden Naidoo</h1>
 
----
+###
 
-## 🕯 About Me
-Hi! I’m **Jaden**, a BSc IT (Data Science) student passionate about **data, machine learning, and solving real-world problems**.  
+<p align="left">Hi! I’m **Jaden**, a BSc IT (Data Science) student passionate about **data, machine learning, and solving real-world problems**.</p>
 
-I love **learning by doing** — experimenting with datasets, building models, breaking them, fixing them, and improving along the way.  
+###
 
-Fun fact: I’m obsessed with **music** and have even appeared on **national television**!  
+<h2 align="left">About me</h2>
 
----
+###
 
-## 🛠 Tech Stack
+<p align="left">✨ Addicted to music<br>📚 I'm currently learning R<br>🎯 Goal: To be the best data scientist there is (I know I have my work cut out for me)<br>🎲 Fun fact: I appeared on national television before!</p>
 
-**Languages:**  
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
-[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+###
 
-**Libraries:**  
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<h2 align="left">🤖 Tech Stack:</h2>
 
-**Databases:**  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
+###
 
----
+<p align="left">Languages</p>
 
-## 🔎 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-naidoo-ds/)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-## 🕰 What I’m Working On
-- Sharpening my **machine learning fundamentals**  
-- Building **practical data science projects**  
-- Exploring **real-world datasets**  
+###
 
-> I’m always learning and would appreciate advice or guidance!  
+<p align="left">Libraries and Databases</p>
 
----
+###
 
-## 📂 Featured Work
-- 📘 Coursework & personal projects  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
+</div>
 
----
+###
 
-## 🕯 A Thought I Like
-> *“Without data, you’re just another person with an opinion.”*
+<h2 align="left">Find Me On:</h2>
 
----
+###
 
-## 🤝 Let’s Connect
-Always happy to **learn, collaborate, or chat about data, ML, and tech**.  
-👋 Always up for a chat — reach out if something in my profile catches your eye or if you want to talk tech!
+<div align="left">
+  <a href="https://www.linkedin.com/in/jaden-naidoo-ds/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaden-Naidoo/Jaden-Naidoo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaden-Naidoo/Jaden-Naidoo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jaden-Naidoo/Jaden-Naidoo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Jaden Naidoo/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
