@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi! I’m **Jaden**, a BSc IT (Data Science) student passionate about **data, machine learning, and solving real-world problems**.</p>
+<p align="left">Hi! I’m Jaden, a BSc IT (Data Science) student passionate about data, machine learning, and solving real-world problems.</p>
 
 ###
 
