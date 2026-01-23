@@ -24,7 +24,7 @@ Fun fact: I’m obsessed with **music** and have even appeared on **national tel
 ## 🛠 Tech Stack
 <p align="center">
 <b>Languages:</b>  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <b>Libraries:</b>  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
