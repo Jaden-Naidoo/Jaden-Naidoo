@@ -6,9 +6,7 @@
 <h1 align="center">Jaden Naidoo</h1>
 <p align="center"><i>BSc IT (Data Science) Student · Aspiring Data Scientist / ML Engineer</i></p>
 
-<p align="center">
-☕ 📊 📚
-</p>
+<p align="center">☕ 📊 📚</p>
 
 ---
 
@@ -23,33 +21,33 @@ Fun fact: I’m obsessed with **music** and have even appeared on **national tel
 
 ## 🛠 Tech Stack
 
-### Languages
-<p align="center">
+**Languages:**  
+<center>
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-</p>
+</center>
 
-### Libraries
-<p align="center">
+**Libraries:**  
+<center>
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)  
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
-</p>
+</center>
 
-### Databases
-<p align="center">
+**Databases:**  
+<center>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)  
-</p>
+</center>
 
 ---
 
-## 🔎 Socials
-<p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-naidoo-ds/)  
-</p>
+## 🔎 Connect With Me on
+<center>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-naidoo-ds/)
+</center>
 
 ---
 
@@ -63,9 +61,9 @@ Fun fact: I’m obsessed with **music** and have even appeared on **national tel
 ---
 
 ## 📂 Featured Work
-<p align="center">
+<center>
 - 📘 Coursework & personal projects  
-</p>
+</center>
 
 ---
 
