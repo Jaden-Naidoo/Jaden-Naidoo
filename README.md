@@ -66,17 +66,8 @@
 
 ###
 
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'Jaden-Naidoo',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=Jaden-Naidoo&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
 
 ###
 
