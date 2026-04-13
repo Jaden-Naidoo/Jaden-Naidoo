@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Addicted to music<br>📚 I'm currently learning R<br>🎯 Goal: To be the best data scientist there is (I know I have my work cut out for me)<br>🎲 Fun fact: I appeared on national television before!</p>
+<p align="left">✨ Addicted to music<br>📚 I'm currently learning PyTorch<br>🎯 Goal: To be the best data scientist there is (I know I have my work cut out for me)<br>🎲 Fun fact: I appeared on national television before!</p>
 
 ###
 
@@ -30,6 +30,10 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
 ###
