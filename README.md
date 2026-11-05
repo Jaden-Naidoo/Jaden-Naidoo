@@ -1,84 +1,101 @@
+<!-- ================= HEADER ================= -->
 <div align="center">
-  <img height="196" src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jaden%20Naidoo&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Real-World%20Problems&descSize=18&descAlignY=58" alt="Jaden Naidoo header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=BSc+IT+(Data+Science)+student;Turning+data+into+decisions;Currently+learning+PyTorch+%F0%9F%94%A5;Aspiring+best+data+scientist+there+is+%F0%9F%8E%AF" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jaden-naidoo-ds/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://img.shields.io/badge/Based_in-South_Africa_🇿🇦-0D1117?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-7C3AED?style=for-the-badge" alt="Open to collaboration" />
+
 </div>
 
-###
+<br/>
 
-<h1 align="left">Jaden Naidoo</h1>
+<!-- ================= ABOUT ================= -->
+## 👋 Hey, I'm Jaden
 
-###
+I'm a **BSc IT (Data Science)** student who loves digging into data, building machine learning models, and using them to solve problems that actually matter.
 
-<p align="left">Hi! I’m Jaden, a BSc IT (Data Science) student passionate about data, machine learning, and solving real-world problems.</p>
+```yaml
+name:      Jaden Naidoo
+studying:  BSc IT — Data Science
+learning:  PyTorch
+goal:      Be the best data scientist there is   # I know I have my work cut out for me
+fuel:      Music 🎧 (genuinely addicted)
+fun_fact:  I've appeared on national television
+```
 
-###
+<br/>
 
-<h2 align="left">About me</h2>
+<!-- ================= CURRENTLY ================= -->
+## 🚀 Currently
 
-###
+| | |
+|---|---|
+| 🔥 **Learning** | PyTorch & deep learning fundamentals |
+| 🎓 **Studying** | Data Science, statistics, and machine learning |
+| 🌱 **Exploring** | Turning messy datasets into clean insights |
+| 🎶 **On repeat** | Whatever's in my headphones right now |
 
-<p align="left">✨ Addicted to music<br>📚 I'm currently learning PyTorch<br>🎯 Goal: To be the best data scientist there is (I know I have my work cut out for me)<br>🎲 Fun fact: I appeared on national television before!</p>
+<br/>
 
-###
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
 
-<h2 align="left">🤖 Tech Stack:</h2>
+**Languages**
 
-###
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<p align="left">Languages</p>
+**Data & ML**
 
-###
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<sub>&nbsp;← in progress</sub>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top languages" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-</div>
+<br/>
 
-###
+<!-- ================= CONNECT ================= -->
+## 🤝 Let's Connect
 
-<p align="left">Libraries and Databases</p>
+I'm always up for chatting about data, ML, or music recommendations.
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"  alt="matplot lib logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="scikit logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"  alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">Find Me On:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jaden-naidoo-ds/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/jaden-naidoo-ds/">
+    <img src="https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
-###
+<br/>
 
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<!-- ================= FOOTER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&reversal=true" alt="Footer" />
 </div>
-
-###
-
-
-
-###
