@@ -1,53 +1,63 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/30/d8/50/30d850e50f5df7a192ee710fb34c5dbd.gif" width="180" alt="Classical bust aesthetic" />
-  
-  <br>
-  <br>
 
-  <h1>J A D E N &nbsp; N A I D O O</h1>
-  
-  <p><i>Scholar of Information Technology & Data Science</i></p>
-  <p>Seeking to distill truth from complexity through machine learning and empirical inquiry.</p>
+<br/>
+
+# Jaden Naidoo
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=1500&color=A68A4B&center=true&vCenter=true&width=520&lines=Data+science%2C+in+harmony.;Descend.+Listen.+Return+with+something+true." alt="tagline" />
+
+<sub>ἁρμονία</sub>
+
+<br/>
+
 </div>
 
-<br>
+---
+
+### About
+
+I'm a BSc IT (Data Science) student drawn to data, machine learning, and the kind of problems that matter outside a notebook.
+
+Orpheus is the quiet muse of this page: a musician who went looking for meaning in the dark. Data feels a little like that to me. You go down into the noise, you listen carefully, and you try to bring something worth keeping back up.
+
+<br/>
+
+### Currently
+
+&nbsp;&nbsp;Learning **PyTorch**
+&nbsp;&nbsp;Listening to far too much **music**
+&nbsp;&nbsp;Working toward being the best data scientist I can be
+
+<sub>&nbsp;&nbsp;Fun fact: I've appeared on national television.</sub>
+
+<br/>
+
+### Stack
+
+<img src="https://img.shields.io/badge/Python-8E8E93?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-8E8E93?style=flat-square&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/pandas-8E8E93?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-8E8E93?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-8E8E93?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/scikit--learn-8E8E93?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/MongoDB-8E8E93?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-8E8E93?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PyTorch-A68A4B?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch (learning)" />
+
+<sub>Gold marks what I'm learning now.</sub>
+
+<br/>
+
+### Connect
+
+<a href="https://www.linkedin.com/in/jaden-naidoo-ds/">
+  <img src="https://img.shields.io/badge/LinkedIn-A68A4B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/>
+
+---
 
 <div align="center">
-  <h3>I . &nbsp; C H R O N I C L E</h3>
-  <p>
-    ✦ <b>Harmonia:</b> Devoted to the art of music.<br>
-    ✦ <b>Praxis:</b> Currently mastering the intricacies of PyTorch.<br>
-    ✦ <b>Telos:</b> Aspiring to the absolute pinnacle of Data Science.<br>
-    ✦ <b>Historia:</b> Once graced the broadcasts of national television.
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>I I . &nbsp; T H E &nbsp; A R S E N A L</h3>
-  
-  <p><i>Lexicon</i></p>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  
-  <br><br>
-  <p><i>Archives & Matrices</i></p>
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
-  <br><br>
-  <img src="https://img.shields.io/badge/scikit_learn-black?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>I I I . &nbsp; E P I L O G U E</h3>
-  <br>
-  <a href="https://www.linkedin.com/in/jaden-naidoo-ds/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<sub><i>Do not look back.</i></sub>
 </div>
