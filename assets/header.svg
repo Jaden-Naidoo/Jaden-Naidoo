@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 212" width="900" height="212" role="img" aria-label="Jaden Naidoo, data science in harmony" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#070c18"/><stop offset="1" stop-color="#0f1d3a"/>
+  </linearGradient>
+  <linearGradient id="shaft" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6f7b8f"/><stop offset=".28" stop-color="#f1f4f8"/>
+    <stop offset=".62" stop-color="#b4bfce"/><stop offset="1" stop-color="#5f6a7e"/>
+  </linearGradient>
+  <linearGradient id="trim" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#e9eef5"/><stop offset="1" stop-color="#8793a6"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#7db3ff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#4c8dff"/>
+    <stop offset="1" stop-color="#7db3ff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#aab6c8"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#aab6c8"/>
+  </linearGradient>
+  <radialGradient id="orb">
+    <stop offset="0" stop-color="#e3efff"/><stop offset=".35" stop-color="#4c8dff" stop-opacity=".7"/>
+    <stop offset="1" stop-color="#4c8dff" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="key" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="translate(0 23)">
+    <path d="M0 14 H16 M13 14 V3 H3 V9 H8" fill="none" stroke="#5b9bff" stroke-width="1.3" stroke-opacity=".8"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 23" to="16 23" dur="6s" repeatCount="indefinite"/>
+  </pattern>
+</defs>
+<rect width="900" height="212" rx="14" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="899" height="211" rx="14" fill="none" stroke="#22325a"/>
+<rect x="10" y="12" width="880" height="6" rx="1" fill="url(#trim)"/>
+<rect x="16" y="18" width="868" height="17" fill="#0a1428"/>
+<rect x="16" y="18" width="868" height="17" fill="url(#key)"/>
+<rect x="16" y="35" width="868" height="8" fill="url(#trim)"/>
+<rect x="16" y="43" width="868" height="1" fill="#4c8dff" opacity=".55"/>
+<g>
+  <rect x="39" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M42 61 H70 L67 67 H45 Z" fill="url(#trim)"/>
+  <rect x="45" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="50.0" y1="67" x2="50.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="54.0" y1="67" x2="54.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="58.0" y1="67" x2="58.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="62.0" y1="67" x2="62.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="45" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="1.94s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="42" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="39" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="89" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M92 61 H120 L117 67 H95 Z" fill="url(#trim)"/>
+  <rect x="95" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="100.0" y1="67" x2="100.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="104.0" y1="67" x2="104.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="108.0" y1="67" x2="108.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="112.0" y1="67" x2="112.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="95" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="1.44s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="92" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="89" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="139" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M142 61 H170 L167 67 H145 Z" fill="url(#trim)"/>
+  <rect x="145" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="149.9" y1="67" x2="149.9" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="154.0" y1="67" x2="154.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="158.0" y1="67" x2="158.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="162.1" y1="67" x2="162.1" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="145" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="0.94s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="142" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="139" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="189" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M192 61 H220 L217 67 H195 Z" fill="url(#trim)"/>
+  <rect x="195" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="199.9" y1="67" x2="199.9" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="204.0" y1="67" x2="204.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="208.0" y1="67" x2="208.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="212.1" y1="67" x2="212.1" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="195" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="0.44s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="192" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="189" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="239" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M242 61 H270 L267 67 H245 Z" fill="url(#trim)"/>
+  <rect x="245" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="249.9" y1="67" x2="249.9" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="254.0" y1="67" x2="254.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="258.0" y1="67" x2="258.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="262.1" y1="67" x2="262.1" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="245" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="-0.06s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="242" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="239" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="627" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M630 61 H658 L655 67 H633 Z" fill="url(#trim)"/>
+  <rect x="633" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="638.0" y1="67" x2="638.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="642.0" y1="67" x2="642.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="646.0" y1="67" x2="646.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="650.0" y1="67" x2="650.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="633" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="-0.06s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="630" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="627" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="677" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M680 61 H708 L705 67 H683 Z" fill="url(#trim)"/>
+  <rect x="683" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="688.0" y1="67" x2="688.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="692.0" y1="67" x2="692.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="696.0" y1="67" x2="696.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="700.0" y1="67" x2="700.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="683" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="0.44s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="680" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="677" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="727" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M730 61 H758 L755 67 H733 Z" fill="url(#trim)"/>
+  <rect x="733" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="738.0" y1="67" x2="738.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="742.0" y1="67" x2="742.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="746.0" y1="67" x2="746.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="750.0" y1="67" x2="750.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="733" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="0.94s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="730" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="727" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="777" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M780 61 H808 L805 67 H783 Z" fill="url(#trim)"/>
+  <rect x="783" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="788.0" y1="67" x2="788.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="792.0" y1="67" x2="792.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="796.0" y1="67" x2="796.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="800.0" y1="67" x2="800.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="783" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="1.44s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="780" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="777" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<g>
+  <rect x="827" y="56" width="34" height="5" rx="1" fill="url(#trim)"/>
+  <path d="M830 61 H858 L855 67 H833 Z" fill="url(#trim)"/>
+  <rect x="833" y="67" width="22" height="120" fill="url(#shaft)"/>
+  <line x1="838.0" y1="67" x2="838.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="842.0" y1="67" x2="842.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="846.0" y1="67" x2="846.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/><line x1="850.0" y1="67" x2="850.0" y2="187" stroke="#4f5a6d" stroke-opacity=".45" stroke-width="1"/>
+  <rect x="833" y="67" width="22" height="120" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;.6;0" dur="5s" begin="1.94s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="830" y="187" width="28" height="4" fill="url(#trim)"/>
+  <rect x="827" y="191" width="34" height="5" fill="url(#trim)"/>
+</g>
+<rect x="24" y="196" width="852" height="6" fill="url(#trim)"/>
+<rect x="16" y="202" width="868" height="7" fill="url(#trim)"/>
+<circle cx="435" cy="190" r="1.6" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.7s" begin="2.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.7s" begin="2.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="453" cy="190" r="1.6" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="5.7s" begin="3.1s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="5.7s" begin="3.1s" repeatCount="indefinite"/>
+</circle>
+<circle cx="492" cy="190" r="1.9" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="5.4s" begin="1.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="5.4s" begin="1.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="319" cy="190" r="1.9" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="7.8s" begin="0.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="7.8s" begin="0.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="604" cy="190" r="2.1" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="7.6s" begin="3.7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="7.6s" begin="3.7s" repeatCount="indefinite"/>
+</circle>
+<circle cx="340" cy="190" r="0.9" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="7.1s" begin="0.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="7.1s" begin="0.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="351" cy="190" r="1.2" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="5.1s" begin="2.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="5.1s" begin="2.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="431" cy="190" r="1.9" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="7.1s" begin="3.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="7.1s" begin="3.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="450" cy="190" r="1.7" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="6.8s" begin="1.7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="6.8s" begin="1.7s" repeatCount="indefinite"/>
+</circle>
+<circle cx="609" cy="190" r="2.1" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.4s" begin="4.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.4s" begin="4.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="391" cy="190" r="1.2" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="6.2s" begin="0.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="6.2s" begin="0.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="535" cy="190" r="1.4" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.4s" begin="2.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.4s" begin="2.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="597" cy="190" r="1.9" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="5.0s" begin="1.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="5.0s" begin="1.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="581" cy="190" r="1.5" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.9s" begin="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.9s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="313" cy="190" r="1.7" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.1s" begin="1.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.1s" begin="1.6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="318" cy="190" r="1.3" fill="#a9ccff" opacity="0">
+  <animate attributeName="cy" from="190" to="62" dur="8.9s" begin="4.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;0" dur="8.9s" begin="4.5s" repeatCount="indefinite"/>
+</circle>
+<g text-anchor="middle" font-family="'Cormorant Garamond','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">
+  <text x="450" y="104" font-size="28" letter-spacing="7" fill="url(#title)">JADEN NAIDOO</text>
+  <text x="450" y="138" font-size="11" letter-spacing="5" fill="#7db3ff" font-family="'Helvetica Neue',Arial,sans-serif">DATA SCIENCE · IN HARMONY</text>
+  <text x="450" y="166" font-size="15" font-style="italic" fill="#9aa7bb">Insights, Analysis, Machine Learning</text>
+</g>
+<line x1="320" y1="117" x2="580" y2="117" stroke="#3a4b6e" stroke-width="1"/>
+<ellipse cy="117" rx="26" ry="3" fill="url(#orb)" opacity="0">
+  <animate attributeName="cx" from="320" to="580" dur="4.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="4.5s" repeatCount="indefinite"/>
+</ellipse>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMDY1ZTg5MC05YzJlLTRjZDktYjM0Yi1hNTE5NWM2MzExZTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLYuByyF+1I73yLUFdRZKakAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2M2JlMzU0MC1jNjI0LTRlZGQtYTJmZi00ZTM5ZTE4NTk5MzhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo9wK/DRU/9ttff4dITEOW6gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggvG3yzQxuB1GGK5ixPal5tP530JutpF90gfCU8jDSpgWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBY6OKnfIczGOHMfVRv7vxAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKxBr6sPJdKW5O1uhBPHjXLERhZVfHcIN/DN9udl3/p5ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUJ1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMwNjVlODkwLTljMmUtNGNkOS1iMzRiLWE1MTk1YzYzMTFlOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI0NzMyZWI0LWNjZDItNGNiOC1hYjdkLTAwMDQ1ZDk1MDQwMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC8bfLNDG4HUYYrmLE9qXm0/nfQm62kX3SB8JTyMNKmBaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgge8cvxHqKpAo0x4Z6SjOVjiZMvIwhh84Sy5INRxwhuoeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggr0tWn1Ms8+dPhDsg6ZyJu0y1KYrcLiT0+e1xc14KKFh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBzz+n+slbIrNZqZgUS1lQZBAgEw/LJAv+RM0XYed+EFDJ+npH8tQBnVZoezANKE569yWNrpjnOdSfiW7Or6qmI=</c2pa:manifest></metadata></svg>
