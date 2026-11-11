@@ -8,7 +8,7 @@
 
 I'm a BSc IT (Data Science) student drawn to data, machine learning, and the kind of problems that matter outside a notebook.
 
-Orpheus is a quiet inspiration behind this page: a musician whose journey took him beyond the familiar, guided by something worth searching for. I see a little of that in data. It's about looking beyond the surface, making sense of the noise, and uncovering something meaningful along the way.
+It's about looking beyond the surface, making sense of the noise, and uncovering something meaningful along the way.
 
 <br/>
 
@@ -41,7 +41,7 @@ Currently
 <br/>
 
 <div align="center">
-  <sub><i>Do not look back.</i></sub>
+  <sub><i>Striving for greatness.</i></sub>
   <br/><br/>
   <img src="./assets/footer.svg" width="100%" alt="" />
 </div>
