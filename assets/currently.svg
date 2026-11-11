@@ -19,7 +19,7 @@
 <text x="38" y="174" font-size="10" letter-spacing="2" fill="#6f7b8f" font-family="'Helvetica Neue',Arial,sans-serif">TENSORS · AUTOGRAD · NN</text>
 <rect x="312" y="10" width="276" height="180" rx="12" fill="url(#card)" stroke="#22325a"/>
 <rect x="324" y="10" width="252" height="1.5" fill="url(#edge)"/>
-<text x="334" y="44" font-size="10" letter-spacing="4" fill="#7db3ff" font-family="'Helvetica Neue',Arial,sans-serif">LISTENING</text>
+<text x="334" y="44" font-size="10" letter-spacing="4" fill="#7db3ff" font-family="'Helvetica Neue',Arial,sans-serif">LISTENING TO</text>
 <text x="566" y="45" font-size="13" font-style="italic" text-anchor="end" fill="#8995aa" font-family="'Cormorant Garamond','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">♬</text>
 <text x="334" y="82" font-size="27" fill="url(#title)" font-family="'Cormorant Garamond','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">Music</text>
 <text x="334" y="106" font-size="12.5" fill="#9aa7bb" font-family="'Helvetica Neue',Arial,sans-serif">Far too much, and no regrets</text>
@@ -89,7 +89,7 @@
 </rect>
 <rect x="608" y="10" width="276" height="180" rx="12" fill="url(#card)" stroke="#22325a"/>
 <rect x="620" y="10" width="252" height="1.5" fill="url(#edge)"/>
-<text x="630" y="44" font-size="10" letter-spacing="4" fill="#7db3ff" font-family="'Helvetica Neue',Arial,sans-serif">STRIVING</text>
+<text x="630" y="44" font-size="10" letter-spacing="4" fill="#7db3ff" font-family="'Helvetica Neue',Arial,sans-serif">STRIVING FOR</text>
 <text x="862" y="45" font-size="13" font-style="italic" text-anchor="end" fill="#8995aa" font-family="'Cormorant Garamond','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">✦</text>
 <text x="630" y="82" font-size="27" fill="url(#title)" font-family="'Cormorant Garamond','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">Mastery</text>
 <text x="630" y="106" font-size="12.5" fill="#9aa7bb" font-family="'Helvetica Neue',Arial,sans-serif">The best data scientist I can be</text>
