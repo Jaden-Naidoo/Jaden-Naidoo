@@ -12,13 +12,10 @@ Orpheus is the quiet muse of this page: a musician who went looking for meaning 
 
 <br/>
 
-### Currently
+Currently
+<img src="./assets/currently.svg" width="100%" alt="Currently: learning PyTorch, listening to music, striving to be the best data scientist I can be" />
 
-&nbsp;&nbsp;Learning **PyTorch**
-&nbsp;&nbsp;Listening to far too much **music**
-&nbsp;&nbsp;Working toward being the best data scientist I can be
-
-<sub>&nbsp;&nbsp;Fun fact: I've appeared on national television.</sub>
+<sub>Fun fact: I've appeared on national television.</sub>
 
 <br/>
 
