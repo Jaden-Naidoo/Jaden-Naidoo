@@ -8,7 +8,7 @@
 
 I'm a BSc IT (Data Science) student drawn to data, machine learning, and the kind of problems that matter outside a notebook.
 
-Orpheus is the quiet muse of this page: a musician who went looking for meaning in the dark. Data feels a little like that to me. You go down into the noise, you listen carefully, and you try to bring something worth keeping back up.
+Orpheus is a quiet inspiration behind this page: a musician whose journey took him beyond the familiar, guided by something worth searching for. I see a little of that in data. It's about looking beyond the surface, making sense of the noise, and uncovering something meaningful along the way.
 
 <br/>
 
